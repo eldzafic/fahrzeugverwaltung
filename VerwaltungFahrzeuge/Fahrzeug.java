@@ -5,6 +5,8 @@ import java.util.*;
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
+
+ //Hier ist das Kommentar von Nico
 public class Fahrzeug
 {
     private String farbe;
