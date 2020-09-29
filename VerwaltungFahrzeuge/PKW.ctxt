@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=PKW
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ PKW.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=PKW()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ PKW\r\n
+comment2.params=
+comment2.target=void\ AddPKW()
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=personen
+comment4.target=void\ setPersonen(java.lang.String)
+comment5.params=marke
+comment5.target=void\ setMarke(java.lang.String)
+comment6.params=typ
+comment6.target=void\ setTyp(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getPersonen()
+comment8.params=
+comment8.target=java.lang.String\ getMarke()
+comment9.params=
+comment9.target=java.lang.String\ getTyp()
+numComments=10

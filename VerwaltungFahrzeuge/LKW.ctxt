@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=LKW
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ LKW.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=LKW()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ LKW\r\n
+comment2.params=
+comment2.target=void\ AddLKW()
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=ladung
+comment4.target=void\ setLadung(java.lang.String)
+comment5.params=achsen
+comment5.target=void\ setAchsen(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getLadung()
+comment7.params=
+comment7.target=java.lang.String\ getAchsen()
+numComments=8
