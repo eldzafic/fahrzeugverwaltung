@@ -10,6 +10,9 @@ public class Datenbank
     ArrayList <Fahrzeug> Fahrzeuge = new ArrayList <Fahrzeug>();
     //PKW pkw = new PKW();
     //LKW lkw = new LKW();
+	//
+	//Kommentar von marhassler
+	//
     /**
      * Konstruktor für Objekte der Klasse Datenbank
      */
